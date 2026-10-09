@@ -1,0 +1,7 @@
+{
+  "name": "ElderCare Hub",
+  "description": "An accessible, speech-enabled ecosystem for senior citizens featuring games, AAC needs communication, and eye-tracking compatible dwell controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
